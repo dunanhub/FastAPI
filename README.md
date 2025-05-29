@@ -11,11 +11,11 @@
 
 | №   | Тема проекта                      | Ссылка на репозиторий                               | Языки и технологии         |
 |-----|-----------------------------------|-----------------------------------------------------|----------------------------|
-| 1️⃣ | API для заметок                   | [notes-api](https://github.com/твой-логин/notes-api) | FastAPI, PostgreSQL       |
-| 2️⃣ | Веб-приложение "Каталог фильмов" | [movie-catalog](https://github.com/твой-логин/movie-catalog) | Django, Bootstrap         |
-| 3️⃣ | Telegram-бот "Консультации"      | [telegram-consult-bot](https://github.com/твой-логин/telegram-consult-bot) | Python, Telebot, JSON     |
-| 4️⃣ | Мини-блог с комментариями        | [mini-blog-api](https://github.com/твой-логин/mini-blog-api) | DRF, Vue.js, SQLite       |
-| 5️⃣ | Редактор в стиле Google Docs     | [google-docs-editor](https://github.com/твой-логин/google-docs-editor) | Vue 2, Tiptap, Vuetify    |
+| 1️⃣ | API для заметок                   | [notes-api](https://github.com/dunanhub/notes-api) | FastAPI, PostgreSQL       |
+| 2️⃣ | Регистрация и Логин               | [movie-catalog](https://github.com/твой-логин/movie-catalog) | Django, Bootstrap         |
+| 3️⃣ | Хеширование Паролей               | [telegram-consult-bot](https://github.com/твой-логин/telegram-consult-bot) | Python, Telebot, JSON     |
+| 4️⃣ | Внедрение JWT                     | [mini-blog-api](https://github.com/твой-логин/mini-blog-api) | DRF, Vue.js, SQLite       |
+| 5️⃣ | Защита Эндпоинтов                 | [google-docs-editor](https://github.com/твой-логин/google-docs-editor) | Vue 2, Tiptap, Vuetify    |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 
@@ -49,7 +49,7 @@
 
 Если у вас есть вопросы или предложения:
 - 📧 Email: [ubniyev.b@gmail.com](mailto:ubniyev.b@gmail.com)
-- 📱 Telegram: [@dunan](https://t.me/dunanb)
+- 📱 Telegram: [@dunanb](https://t.me/dunanb)
 - 📱 Instagram: [@dunan_](https://www.instagram.com/d.unan_/)
 - 💼 GitHub: [@dunanhub](https://github.com/dunanhub)
 

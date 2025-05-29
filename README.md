@@ -11,11 +11,7 @@
 
 | №   | Тема проекта                      | Ссылка на репозиторий                               | Языки и технологии         |
 |-----|-----------------------------------|-----------------------------------------------------|----------------------------|
-| 1️⃣ | API для заметок                   | [notes-api](https://github.com/dunanhub/notes_api) | FastAPI, PostgreSQL       |
-| 2️⃣ | Регистрация и Логин               | [movie-catalog](https://github.com/твой-логин/movie-catalog) | Django, Bootstrap         |
-| 3️⃣ | Хеширование Паролей               | [telegram-consult-bot](https://github.com/твой-логин/telegram-consult-bot) | Python, Telebot, JSON     |
-| 4️⃣ | Внедрение JWT                     | [mini-blog-api](https://github.com/твой-логин/mini-blog-api) | DRF, Vue.js, SQLite       |
-| 5️⃣ | Защита Эндпоинтов                 | [google-docs-editor](https://github.com/твой-логин/google-docs-editor) | Vue 2, Tiptap, Vuetify    |
+| 1️⃣ | API для заметок                   | [notes_api](https://github.com/dunanhub/notes_api) | FastAPI, PostgreSQL       |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 

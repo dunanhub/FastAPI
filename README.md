@@ -49,7 +49,8 @@
 
 Если у вас есть вопросы или предложения:
 - 📧 Email: [ubniyev.b@gmail.com](mailto:ubniyev.b@gmail.com)
-- 📱 Telegram: [@dunan_](https://t.me/dunan_)
+- 📱 Telegram: [@dunan](https://t.me/dunanb)
+- 📱 Instagram: [@dunan_](https://www.instagram.com/d.unan_/)
 - 💼 GitHub: [@dunanhub](https://github.com/dunanhub)
 
 ---

@@ -11,7 +11,8 @@
 
 | №   | Тема проекта                      | Ссылка на репозиторий                               | Языки и технологии         |
 |-----|-----------------------------------|-----------------------------------------------------|----------------------------|
-| 1️⃣ | API для заметок                   | [notes_api](https://github.com/dunanhub/notes_api) | FastAPI, PostgreSQL       |
+| 1️⃣ | API для заметок                   | [notes_api](https://github.com/dunanhub/notes_api)  | FastAPI, PostgreSQL        |
+| 2️⃣ | API для Регистрации и Логина      | [auth_api](https://github.com/dunanhub/auth_api)    | FastAPI, PostgreSQL        |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 

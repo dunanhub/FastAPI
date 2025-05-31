@@ -12,7 +12,8 @@
 | №   | Тема проекта                      | Ссылка на репозиторий                               | Языки и технологии         |
 |-----|-----------------------------------|-----------------------------------------------------|----------------------------|
 | 1️⃣ | API для заметок                   | [notes_api](https://github.com/dunanhub/notes_api)  | FastAPI, PostgreSQL        |
-| 2️⃣ | API для Регистрации и Логина      | [auth_api](https://github.com/dunanhub/auth_api)    | FastAPI, PostgreSQL        |
+| 2️⃣ | API для Регистрации и Логина (v1) | [auth_api](https://github.com/dunanhub/auth_api)          | FastAPI, PostgreSQL        |
+| 3️⃣ | API с хешированием паролей (v2)   | [auth_bcrypt_api](https://github.com/dunanhub/auth_bcrypt_api) | FastAPI, PostgreSQL, bcrypt |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 

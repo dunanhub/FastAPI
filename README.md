@@ -16,6 +16,8 @@
 | 3️⃣ | API с хешированием паролей        | [auth_bcrypt_api](https://github.com/dunanhub/auth_bcrypt_api) | FastAPI, PostgreSQL, bcrypt |
 | 4️⃣ | API с JWT-токенами                | [auth_jwt_api](https://github.com/dunanhub/JWT_Authentication.git)      | FastAPI, PostgreSQL, python-jose    |
 | 5️⃣ | FastAPI JWT Protected Authentication| [auth_jwt_protected_api](https://github.com/dunanhub/auth_jwt_protected_api) | FastAPI, PostgreSQL, python-jose, bcrypt, dotenv |
+| 6️⃣ | FastAPI RBAC Authentication              | [auth_rbac_api](https://github.com/dunanhub/auth_rbac_api)             | FastAPI, PostgreSQL, python-jose, SQLModel, dotenv   |
+| 7️⃣ | FastAPI Notes CRUD API with Auth         | [auth_notes_crud_api](https://github.com/dunanhub/auth_notes_crud_api) | FastAPI, PostgreSQL, python-jose, bcrypt, SQLModel   |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 

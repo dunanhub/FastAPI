@@ -18,6 +18,7 @@
 | 5️⃣ | FastAPI JWT Protected Authentication| [auth_jwt_protected_api](https://github.com/dunanhub/auth_jwt_protected_api) | FastAPI, PostgreSQL, python-jose, bcrypt, dotenv |
 | 6️⃣ | FastAPI RBAC Authentication              | [auth_rbac_api](https://github.com/dunanhub/auth_rbac_api)             | FastAPI, PostgreSQL, python-jose, SQLModel, dotenv   |
 | 7️⃣ | FastAPI Notes CRUD API with Auth         | [auth_notes_crud_api](https://github.com/dunanhub/auth_notes_crud_api) | FastAPI, PostgreSQL, python-jose, bcrypt, SQLModel   |
+| 8️⃣ | FastAPI Notes API with Filtering & Pagination | [auth_notes_filter_api](https://github.com/dunanhub/auth_notes_filter_api) | FastAPI, PostgreSQL, python-jose, SQLModel, dotenv        |
 
 > ✍️ *Список будет пополняться по мере выполнения заданий*
 
